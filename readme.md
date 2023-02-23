@@ -30,7 +30,7 @@ This repository was inspired by the work of many researchers and practitioners i
 
 We hope you find these prompts useful and have fun using AI models!
 
-# Some Public Promots Repo
+# Some Public Promots Resources
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
