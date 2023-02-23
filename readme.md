@@ -32,8 +32,14 @@ We hope you find these prompts useful and have fun using AI models!
 
 # Some Public Promots Repo
 
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-[promptsource](https://github.com/bigscience-workshop/promptsource)
+- [DALL-E-2-prompt-guide](https://strikingloo.github.io/DALL-E-2-prompt-guide)
+
+- [DALL·E Editor Guide](https://help.openai.com/en/articles/6516417-dall-e-editor-guide)
+
+- [5 Tips to Get the Best Results From DALL-E 2](https://www.howtogeek.com/836690/5-tips-to-get-the-best-results-from-dall-e-2/)
+
+
