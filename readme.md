@@ -73,12 +73,12 @@ We hope you find these prompts useful and have fun using AI models!
 | FastMoE| trillions | yes |
 | HuggingFace|1.6 trillion| - |
 # Benchmark achievements
-ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP.
-LAMA (factual and commonsense knowledge): Surpassed AutoPrompt.
-LAMBADA (cloze tasks): Surpassed Microsoft Turing NLG.
-SuperGLUE (few-shot): SOTA, surpassing OpenAI GPT-3.
-UC Merced Land Use (zero-shot): SOTA, surpassing OpenAI CLIP.
-MS COCO (text generation diagram): Surpassed OpenAI DALL·E.
-MS COCO (English graphic retrieval): Surpassed OpenAI CLIP and Google ALIGN.
-MS COCO (multilingual graphic retrieval): Surpassed UC² (best multilingual and multimodal pre-trained model).
-Multi 30K (multilingual graphic retrieval): Surpassed UC².
+|ImageNet (zero-shot)| SOTA, surpassing OpenAI CLIP.|
+|LAMA (factual and commonsense knowledge)| Surpassed AutoPrompt.|
+|LAMBADA (cloze tasks)| Surpassed Microsoft Turing NLG.|
+|SuperGLUE (few-shot)| SOTA, surpassing OpenAI GPT-3.|
+|UC Merced Land Use (zero-shot)| SOTA, surpassing OpenAI CLIP.|
+|MS COCO (text generation diagram)| Surpassed OpenAI DALL·E.|
+|MS COCO (English graphic retrieval)| Surpassed OpenAI CLIP and Google ALIGN.|
+|MS COCO (multilingual graphic retrieval)| Surpassed UC² (best multilingual and multimodal pre-trained model).|
+|Multi 30K (multilingual graphic retrieval)| Surpassed UC².|
