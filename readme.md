@@ -49,3 +49,36 @@ We hope you find these prompts useful and have fun using AI models!
 - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)
 - [怎样让ChatGPT在其内部训练神经网络](https://zhuanlan.zhihu.com/p/605163615)
 - [AI-powered Bing Chat spills its secrets via prompt injection attack](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/)
+
+# Company
+- [jasper](https://www.jasper.ai/)
+
+# Models
+| Model Name  | Parameters | Open |
+| ------------- | ------------- |------------- |
+| BERT  | 340 million | yes |
+| ELMo-BiDAF | 113 Million | - |
+| [Turing NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)  | 17 billion  | - |
+| [Chinchilla LLM](https://towardsdatascience.com/a-new-ai-trend-chinchilla-70b-greatly-outperforms-gpt-3-175b-and-gopher-280b-408b9b4510)  | 70 billion  | - |
+| Gopher | 280B | - |
+| Brain  | 2.5 万亿  | - |
+| [GPT-2](https://github.com/openai/gpt-2)  | 1.5 billion  | yes |
+| GPT-3  | 175 billion  | - |
+| Jurassic-1 | 178B | - |
+| LaMDA | 137B | - |
+| Megatron-Turing NLG | 530B | - |
+| Wudao  | 1.75 Trillion | - |
+| UNITER-base   | 86M | - |
+| UNITER-large  | 303M | - |
+| FastMoE| trillions | yes |
+| HuggingFace|1.6 trillion| - |
+# Benchmark achievements
+ImageNet (zero-shot): SOTA, surpassing OpenAI CLIP.
+LAMA (factual and commonsense knowledge): Surpassed AutoPrompt.
+LAMBADA (cloze tasks): Surpassed Microsoft Turing NLG.
+SuperGLUE (few-shot): SOTA, surpassing OpenAI GPT-3.
+UC Merced Land Use (zero-shot): SOTA, surpassing OpenAI CLIP.
+MS COCO (text generation diagram): Surpassed OpenAI DALL·E.
+MS COCO (English graphic retrieval): Surpassed OpenAI CLIP and Google ALIGN.
+MS COCO (multilingual graphic retrieval): Surpassed UC² (best multilingual and multimodal pre-trained model).
+Multi 30K (multilingual graphic retrieval): Surpassed UC².
