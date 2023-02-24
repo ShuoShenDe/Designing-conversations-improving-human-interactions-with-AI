@@ -73,6 +73,8 @@ We hope you find these prompts useful and have fun using AI models!
 | FastMoE| trillions | yes |
 | HuggingFace|1.6 trillion| - |
 # Benchmark achievements
+| Benchmark | Achievements |
+| ------------- | ------------- |
 |ImageNet (zero-shot)| SOTA, surpassing OpenAI CLIP.|
 |LAMA (factual and commonsense knowledge)| Surpassed AutoPrompt.|
 |LAMBADA (cloze tasks)| Surpassed Microsoft Turing NLG.|
