@@ -42,4 +42,7 @@ We hope you find these prompts useful and have fun using AI models!
 
 - [5 Tips to Get the Best Results From DALL-E 2](https://www.howtogeek.com/836690/5-tips-to-get-the-best-results-from-dall-e-2/)
 
+- [Reverse Engineered ChatGPT API](https://github.com/acheong08/ChatGPT)
 
+# Cases
+- [https://byteclicks.com/30078.html](https://byteclicks.com/30078.html)
