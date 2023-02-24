@@ -46,3 +46,5 @@ We hope you find these prompts useful and have fun using AI models!
 
 # Cases
 - [https://byteclicks.com/30078.html](https://byteclicks.com/30078.html)
+- [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)
+- [怎样让ChatGPT在其内部训练神经网络](https://zhuanlan.zhihu.com/p/605163615)
