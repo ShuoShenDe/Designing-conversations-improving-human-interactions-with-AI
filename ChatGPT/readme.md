@@ -9,9 +9,10 @@ Once you have selected a prompt, you can use it to generate responses from the C
 # Contributing
 We welcome contributions to the ChatGPT Prompts Guide. If you have a prompt that you would like to share, please fork this repository and submit a pull request with your new prompt. Before submitting a pull request, please ensure that your prompt is well-written and meets our quality standards.
 
-# Examples
-1. [Let chatgpt help you debug](./debug.md)
-2. [Let chatgpt help you translate your code into another language](./translateLanguage.md)
+# Examples: Let ChatGPT help you
+1. [debug](./debug.md)
+2. [translate your code into another language](./translateLanguage.md)
+3. [write introduction for something](./writeIntroduction.md)
 
 # License
 The ChatGPT Prompts Guide is licensed under the Apache License, Version 2.0. See the LICENSE file for more details.
