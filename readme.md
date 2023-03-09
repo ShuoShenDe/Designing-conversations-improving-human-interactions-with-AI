@@ -21,6 +21,14 @@ You can also explore the code examples and tutorials to get hands-on experience 
 ## Contributing
 Contributions to this repository are welcome! If you have resources or tools that you would like to add, please submit a pull request. If you find an issue or would like to request a feature, please open an issue in the repository.
 
+## Models and Examples:
+[ChatGPT](./ChatGPT/readme.md)
+[DALL-E2](./DALL-E2/readme.md)
+[Midjourney](./Midjourney/readme.md)
+[Stable Duffusion](./Stable%20Duffusion/readme.md)
+[PaLM-E](./PaLM-E/readme.md)
+
+
 ## License
 This repository is licensed under the MIT license. Please see the LICENSE file for more information.
 
