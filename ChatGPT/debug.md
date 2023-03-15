@@ -47,15 +47,15 @@ console.log("running at http ://127.0.0.1:8080")
 ```
 
 ## Result
-![image](./chat.jpg)
+![image](./images/chat.jpg)
 
 ## Tips:
 You can seperate the information if your code is too long. For example, you can input your code first, then ask chatgpt, where is wrong. Or ask problem directly, then input code after chatgpt answered.
 like:
 
-![image](./chat1.jpg)
-![image](./chat2.jpg)
-![image](./chat3.jpg)
-![image](./chat4.jpg)
+![image](./images/chat1.jpg)
+![image](./images/chat2.jpg)
+![image](./images/chat3.jpg)
+![image](./images/chat4.jpg)
 
 ChatGPT is very smart! It can be a very good tutor!

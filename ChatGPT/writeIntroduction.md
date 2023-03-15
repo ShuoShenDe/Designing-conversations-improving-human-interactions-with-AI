@@ -26,4 +26,4 @@ Overall, MidJourney represents a significant advance in the field of music analy
 
 ## Tips
 You can continue let chatGPT modify its result
-![shortIntruduction](./intruduction.jpg)
+![shortIntruduction](./images/intruduction.jpg)
