@@ -13,6 +13,7 @@ Once you have selected a prompt, you input it into [chatGPT](https://chat.openai
 3. [write introduction for something](./writeIntroduction.md)
 4. [Write a function](./function.md)
 5. [help you write the correct reference cite format](./reference.md)
+6. [Search papers and summarize](./paperseach.md)
 
 
 # Technical handbook
