@@ -99,10 +99,11 @@ We hope you find these prompts useful and have fun using AI models!
 | LaMDA | 137 billion | - |
 | Megatron-Turing NLG | 530 billion | - |
 | Wudao  | 1.75 Trillion | - |
-| UNITER-base   | 86 million | - |
-| UNITER-large  | 303 million | - |
-| FastMoE| trillions | yes |
-| HuggingFace|1.6 trillion| - |
+| UNITER-base | 86 million | - |
+| UNITER-large | 303 million | - |
+| FastMoE | trillions | yes |
+| [LLaMA](https://github.com/facebookresearch/llama) |65 billion| yes |
+
 
 # Benchmark achievements
 | Benchmark | Achievements |
@@ -158,6 +159,13 @@ This repository contains information on various AI-powered platforms and tools t
 >## [☘️ Room GPT](https://www.roomgpt.io/)
 >
 >Room GPT is an AI-powered platform that helps users redesign their rooms by uploading a photo. By using GPT models to analyze the photo, the platform can generate personalized design recommendations that are tailored to the user's preferences. This can help users save time and resources by providing them with a visual representation of their room before making any physical changes.
+
+# ChatGPT Learning Map
+
+## News
+- 2023-02-09: [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
+- 2023-0227: []
+
 
 # References
 <a id="1">[1]</a> Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. In Advances in Neural Information Processing Systems (pp. 1877-1901).
