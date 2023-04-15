@@ -3,6 +3,7 @@
 Welcome to the "Designing conversations: improving human interactions with AI" repository! This repository contains example resources for improving human interactions with AI through designing effective prompt.
 
 ![](https://img.shields.io/badge/ChatGPT-prompts-green)
+![](https://img.shields.io/badge/Midjourney-prompts-blue)
 ![](https://img.shields.io/badge/DALL--E2-prompts-yellowgreen)
 ![](https://img.shields.io/badge/Stable%20Diffusion-prompts-yellowgreen)
 ![](https://img.shields.io/badge/PaLM--E-prompts-yellowgreen)
@@ -41,25 +42,25 @@ For example as follows, this first prompt is too vague and does not provide any 
 ---
 
 - ### [👍ChatGPT](./ChatGPT/readme.md)
->  A large language model developed by OpenAI, based on the GPT-3.5 architecture. It has a diverse range of capabilities, including natural language processing, language translation, text summarization, sentiment analysis, and more. It can be used for a wide range of tasks, from answering trivia questions and providing personalized recommendations to conducting research and generating creative writing  [[1]](#1) ![](https://img.shields.io/badge/ChatGPT-prompts-green). You can find more [chatGPT Case here](./ChatGPT/readme.md).
+>  A large language model developed by OpenAI, based on the GPT-3.5 architecture. It has a diverse range of capabilities, including natural language processing, language translation, text summarization, sentiment analysis, and more. It can be used for a wide range of tasks, from answering trivia questions and providing personalized recommendations to conducting research and generating creative writing [[1]](#1). You can find more [chatGPT Case here](./ChatGPT/readme.md). ![](https://img.shields.io/badge/ChatGPT-prompts-green).
 
 - ### [🤖 Midjourney](./Midjourney/prompts.md)
-> Midjourney is an artificial intelligence program and service created and hosted by a San Francisco-based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called "prompts", similar to OpenAI's DALL-E and Stable Diffusion. You can find more [Midjourney Case here](./Midjourney/prompts.md).
+> Midjourney is an artificial intelligence program and service created and hosted by a San Francisco-based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called "prompts", similar to OpenAI's DALL-E and Stable Diffusion. You can find more [Midjourney Case here](./Midjourney/prompts.md). ![](https://img.shields.io/badge/Midjourney-prompts-blue)
 
 - ### [📘DALL-E2](./DALL-E2/readme.md)
 > an advanced version of DALL-E. It uses a combination of deep learning algorithms, including Transformers and GANs, to generate images that match the given text description.
-The potential applications of DALL-E 2 are vast, including creating realistic product images for e-commerce websites, generating visual aids for scientific research, and even creating art and design elements for various projects.[[2]](#2) ![](https://img.shields.io/badge/DALL--E2-prompts-yellowgreen). You can find more [DALL-E2 Case here](./DALL-E2/readme.md).
+The potential applications of DALL-E 2 are vast, including creating realistic product images for e-commerce websites, generating visual aids for scientific research, and even creating art and design elements for various projects [[2]](#2) . You can find more [DALL-E2 Case here](./DALL-E2/readme.md).![](https://img.shields.io/badge/DALL--E2-prompts-yellowgreen).
 
 - ### [💡 Stable Duffusion](./Stable%20Duffusion/readme.md)
 > a probabilistic generative model for image and video generation, developed by researchers at Google AI. 
-The Stable Diffusion Model is particularly well-suited for generating large images or long videos, and is capable of capturing complex dependencies between the different elements in the image or video. It has been shown to outperform other state-of-the-art generative models in terms of visual quality and diversity.[[3]](#3) ![](https://img.shields.io/badge/Stable%20Diffusion-prompts-yellowgreen). You can find more [Stable Duffusion Case here](./Stable%20Duffusion/readme.md).
+The Stable Diffusion Model is particularly well-suited for generating large images or long videos, and is capable of capturing complex dependencies between the different elements in the image or video. It has been shown to outperform other state-of-the-art generative models in terms of visual quality and diversity [[3]](#3). You can find more [Stable Duffusion Case here](./Stable%20Duffusion/readme.md).![](https://img.shields.io/badge/Stable%20Diffusion-prompts-yellowgreen).
 
 - ### [🥇 PaLM-E](./PaLM-E/readme.md) 
 > PaLM-E (Pre-training and Language Model for English) is a large-scale language model developed by the research team at Facebook AI. 
-The model has potential applications in a variety of natural language processing tasks, including information retrieval, sentiment analysis, and machine translation. [[4]](#4) ![](https://img.shields.io/badge/PaLM--E-prompts-yellowgreen). You can find more [PaLM-E Case here](./PaLM-E/readme.md).
+The model has potential applications in a variety of natural language processing tasks, including information retrieval, sentiment analysis, and machine translation [[4]](#4). You can find more [PaLM-E Case here](./PaLM-E/readme.md). ![](https://img.shields.io/badge/PaLM--E-prompts-yellowgreen).
 
 - ### [🔮 GPT4](https://openai.com/product/gpt-4)
-> a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. [[5]](#5) ![](https://img.shields.io/badge/GPT4-prompts-red). You can find more [GPT4 Case here](./DALL-E2/readme.md).
+> a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks [[5]](#5). You can find more [GPT4 Case here](./DALL-E2/readme.md). ![](https://img.shields.io/badge/GPT4-prompts-red). 
 
 
 
@@ -161,8 +162,8 @@ This repository was inspired by the work of many researchers and practitioners i
 
 - [learnprompting](https://learnprompting.org/docs/intro)
 
-- [Midjourney 注册及充值教程](./Midjourney/readme.md)
+- [Midjourney 手把手注册及充值教程](./Midjourney/readme.md)
 
-- [两万字干货！可能是全网最详细的Midjourney基础教程](https://learnprompting.org/docs/intro)
+- [Midjourney Prompt及调教记录](./Midjourney/readme.md)
 
-# [Other tools](othertools.md)
+- [Other tools](othertools.md)
