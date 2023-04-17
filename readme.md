@@ -67,7 +67,24 @@ The model has potential applications in a variety of natural language processing
 We hope you find these prompts useful and have fun using AI models!
 
 # News
-- [https://byteclicks.com/30078.html](https://byteclicks.com/30078.html)
+- [AUTOGPT: THE AI THAT CAN SELF-IMPROVE IS SCARY!](https://autogpt.net/autogpt-the-ai-that-can-self-improve-is-scary/)
+- [THE BEST CHATGPT CHROME EXTENSION](https://autogpt.net/the-best-chatgpt-chrome-extension/)
+- [PYTORCH 2.X: FASTER, MORE PYTHONIC AND AS DYNAMIC AS EVER](https://pytorch.org/get-started/pytorch-2.0/#:~:text=2.0%20is%20the%20latest%20PyTorch,models%20during%20training%20and%20inference.)
+- [Adept Raises $350 Million To Build AI That Learns How To Use Software For You
+](https://www.forbes.com/sites/kenrickcai/2023/03/14/adept-ai-startup-raises-350-million-series-b/)
+- [Rewind Investor Presentation](https://www.youtube.com/watch?v=AqgdnW_J-vQ)
+- [WHAT IS AUTO-GPT AND WHY DO WE CARE?
+](https://autogpt.net/what-is-auto-gpt-and-why-do-we-care/)
+- [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Exploring Midjourney V4 for Creating Digital Art](https://towardsdatascience.com/exploring-midjourney-v4-for-creating-digital-art-4d20980a96f7)
+- [Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+- [Introducing Claude](https://www.anthropic.com/index/introducing-claude)
+- [Alpaca: A Strong, Replicable Instruction-Following Model
+](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- [Scaling up GANs for Text-to-Image Synthesis](https://arxiv.org/abs/2303.05511)
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://github.com/microsoft/visual-chatgpt)
+- [Toolformer: Language Models Can Teach Themselves to Use Tools
+](https://arxiv.org/abs/2302.04761)
 - [ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)
 - [怎样让ChatGPT在其内部训练神经网络](https://zhuanlan.zhihu.com/p/605163615)
 - [AI-powered Bing Chat spills its secrets via prompt injection attack](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/)
@@ -94,6 +111,9 @@ We hope you find these prompts useful and have fun using AI models!
 | UNITER-large | 303 million | - |
 | FastMoE | trillions | yes |
 | [LLaMA](https://github.com/facebookresearch/llama) |65 billion| yes |
+| Alpaca | 7 billion | - |
+| PALM | 540 billion | - |
+| Claude(safty)| 52 billion | - |
 
 
 # Benchmark achievements
@@ -108,9 +128,6 @@ We hope you find these prompts useful and have fun using AI models!
 |MS COCO (English graphic retrieval)| Surpassed OpenAI CLIP and Google ALIGN.|
 |MS COCO (multilingual graphic retrieval)| Surpassed UC² (best multilingual and multimodal pre-trained model).|
 |Multi 30K (multilingual graphic retrieval)| Surpassed UC².|
-
-## Contributing
-Contributions to this repository are welcome! If you have resources or tools that you would like to add, please submit a pull request. If you find an issue or would like to request a feature, please open an issue in the repository.
 
 <br>
 
@@ -152,6 +169,9 @@ This repository was inspired by the work of many researchers and practitioners i
 
 - [ChatGPT 提问艺术](./files/ChatGPT%20%E6%8F%90%E9%97%AE%E8%89%BA%E6%9C%AF.pdf)
 
+- [ChatGPT, Generative AI and GPT-3 Apps and 700+ use cases. 
+](https://gpt3demo.com/)
+
 - [DALL-E-2-prompt-guide](https://strikingloo.github.io/DALL-E-2-prompt-guide)
 
 - [DALL·E Editor Guide](https://help.openai.com/en/articles/6516417-dall-e-editor-guide)
@@ -167,3 +187,6 @@ This repository was inspired by the work of many researchers and practitioners i
 - [Midjourney Prompt及调教记录](./Midjourney/readme.md)
 
 - [Other tools](othertools.md)
+
+# Contributing
+Contributions to this repository are welcome! If you have resources or tools that you would like to add, please submit a pull request. If you find an issue or would like to request a feature, please open an issue in the repository.
