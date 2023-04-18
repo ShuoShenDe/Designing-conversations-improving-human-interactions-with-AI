@@ -167,29 +167,19 @@ This repository was inspired by the work of many researchers and practitioners i
 # Other Promots Resources
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-
 - [ChatGPT 提问艺术](./files/ChatGPT%20%E6%8F%90%E9%97%AE%E8%89%BA%E6%9C%AF.pdf)
-
 - [ChatGPT, Generative AI and GPT-3 Apps and 700+ use cases. 
 ](https://gpt3demo.com/)
-
 - [DALL-E-2-prompt-guide](https://strikingloo.github.io/DALL-E-2-prompt-guide)
-
 - [DALL·E Editor Guide](https://help.openai.com/en/articles/6516417-dall-e-editor-guide)
-
 - [5 Tips to Get the Best Results From DALL-E 2](https://www.howtogeek.com/836690/5-tips-to-get-the-best-results-from-dall-e-2/)
-
 - [Reverse Engineered ChatGPT API](https://github.com/acheong08/ChatGPT)
-
 - [learnprompting](https://learnprompting.org/docs/intro)
-
 - [Midjourney 手把手注册及充值教程](./Midjourney/readme.md)
-
 - [Midjourney Prompt及调教记录](./Midjourney/readme.md)
-
 - [Other tools](othertools.md)
+- [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
 
 # Contributing
 Contributions to this repository are welcome! If you have resources or tools that you would like to add, please submit a pull request. If you find an issue or would like to request a feature, please open an issue in the repository.
