@@ -47,6 +47,9 @@ For example as follows, this first prompt is too vague and does not provide any 
 - ### [🤖 Midjourney](./Midjourney/prompts.md)
 > Midjourney is an artificial intelligence program and service created and hosted by a San Francisco-based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called "prompts", similar to OpenAI's DALL-E and Stable Diffusion. You can find more [Midjourney Case here](./Midjourney/prompts.md). ![](https://img.shields.io/badge/Midjourney-prompts-blue)
 
+- ### 🎥[AI server for video](https://knx30z1z2z.feishu.cn/docx/RLLodJdOjoB1KFxZGjDcPlSInKe)
+> This article compiled a list of various AI servers that are capable of generating videos from text inputs. These servers utilize natural language processing (NLP) and computer vision (CV) algorithms to analyze and interpret the text and then generate corresponding visual content in the form of videos. 
+
 - ### [📘DALL-E2](./DALL-E2/readme.md)
 > an advanced version of DALL-E. It uses a combination of deep learning algorithms, including Transformers and GANs, to generate images that match the given text description.
 The potential applications of DALL-E 2 are vast, including creating realistic product images for e-commerce websites, generating visual aids for scientific research, and even creating art and design elements for various projects [[2]](#2) . You can find more [DALL-E2 Case here](./DALL-E2/readme.md).![](https://img.shields.io/badge/DALL--E2-prompts-yellowgreen).
