@@ -157,4 +157,4 @@ This repository was inspired by the work of many researchers and practitioners i
 
 - [两万字干货！可能是全网最详细的Midjourney基础教程](https://learnprompting.org/docs/intro)
 
-# [Other tools](othertools.md)
+- [其他AI相关工具地址](othertools.md)
