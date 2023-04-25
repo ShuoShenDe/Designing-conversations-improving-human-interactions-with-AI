@@ -150,8 +150,11 @@ Midjourney 给予普通用户的免费做图已经取消了。如果是想好好
 
 ![server](./image/uisdc-nn-20230410-26.jpg)
 
-# 如何调教请看： - [Midjorney调教指南](./prompts.md)
+# 如何调教请看： 
+- [Midjorney调教指南](./prompts.md)
 
-# Others
+
+## 资源来源
 - [Best Midjourney Prompts: an epic list of 644 crazy text to image ideas](https://www.creativindie.com/best-midjourney-prompts-an-epic-list-of-crazy-text-to-image-ideas/)
 - [Midjourney基础教程](https://www.uisdc.com/midjourney-7)
+- [两万字干货！可能是全网最详细的Midjourney基础教程](https://learnprompting.org/docs/intro)

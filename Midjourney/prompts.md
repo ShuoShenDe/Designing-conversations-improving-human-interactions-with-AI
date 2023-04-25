@@ -1,4 +1,7 @@
 # 如何用 Midjourney 创作你的第一幅 AI 作品
+### 风格关键词
+![style](./image/style.png)
+
 
 ### 1）关键词生成图片
 
@@ -951,3 +954,10 @@ Test 模型
 > 超写实主义，超细节，可爱，科幻，3D，可爱，机器人助手，雷，可爱，迪士尼人物，友好，可爱，简单，图标，流行 Dribbble, Dieselpunk，高端，现实纹理，居中
 
 ![prompts](./image/uisdc-nn-20230410-129.jpg)
+
+
+> ink drawing, michael canetti fashion style drawing illustration, beautiful young arab woman wear niqab, bright yellow eyes, hyperdetailed facial features, 8k resolution, black and white image with hint of red and pink accent ![Alt text](https://cdn.discordapp.com/attachments/997266746379612160/1100383117358936134/visionsai_ink_drawing_michael_canetti_fashion_style_drawing_ill_47c8ee41-4642-46e6-834e-f31aaefc6782.png)
+
+> dark forest at night with colorful butterflies, in the style of brushwork exploration, 2d game art, raina telgemeier, subtle use of shading, anime-influenced, wood --ar ![Alt text](https://cdn.discordapp.com/attachments/997266746379612160/1100373066611179570/justlove777999_dark_forest_at_night_with_colorful_butterflies_i_ee32554c-912e-416d-b02e-e89c4cda4a71.png)
+
+> an artificial intelligence visualisation as an android made of lines and dots![Alt text](https://cdn.discordapp.com/attachments/997266746379612160/1100386878802366485/zuz_an_artificial_intelligence_visualisation_as_an_android_made_f2fb00bd-7552-425c-af3f-239775ae2adc.png)
